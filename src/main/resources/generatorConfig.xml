@@ -45,7 +45,7 @@
                enableCountByExample="false"
         >
             <!-- 使用数据库列名, 而不用驼峰命名法 -->
-            <property name="useActualColumnNames" value="true"/>
+            <property name="useActualColumnNames" value="false"/>
             <!-- 重新定义字段 score 的类型为 String -->
             <columnOverride column="score" javaType="java.lang.String" />
             <!-- 忽略掉 rating 字段 -->

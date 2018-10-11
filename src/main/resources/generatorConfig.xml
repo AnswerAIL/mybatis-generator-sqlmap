@@ -44,7 +44,7 @@
                enableSelectByExample="false" selectByExampleQueryId="false"
                enableCountByExample="false"
         >
-            <!-- 使用数据库列名, 而不用驼峰命名法 -->
+            <!-- 使用数据库列名(true: 使用  false: 不使用), 而不用驼峰命名法 -->
             <property name="useActualColumnNames" value="false"/>
             <!-- 重新定义字段 score 的类型为 String -->
             <columnOverride column="score" javaType="java.lang.String" />

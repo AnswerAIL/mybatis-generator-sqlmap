@@ -38,7 +38,7 @@
 
 
 
-        <!-- 指定数据库表, domainObjectName: 指定生成对象的名字, 需要生成example, 则把 enable***Example 属性去掉或改为true -->
+        <!-- 指定数据库表, domainObjectName: 指定生成对象的名字, 如果需要生成example操作类, 则把 enable***Example 属性去掉或改为true -->
         <table schema="" tableName="tx_user_info" domainObjectName="UserInfo"
                enableUpdateByExample="false" enableDeleteByExample="false"
                enableSelectByExample="false" selectByExampleQueryId="false"

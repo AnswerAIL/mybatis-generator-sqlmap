@@ -17,3 +17,6 @@
     */
 
 ```
+
+### 请简单粗暴地支持我
+<img src="https://github.com/AnswerAIL/answer-ai-repositories/blob/master/pay/wx.jpg"  height="230" width="240">
